@@ -9,3 +9,6 @@ Using Pandas, Numpy, Matplotlib and Seaborn packages in Python I analyzed a data
 - Clustered categories in rest_type, location, and cuisine with low occurrences into an "others" category for better clarity in visualization.
 
 # Data Visualization
+- **Location Analysis** : A countplot revealed that BTM has the highest concentration of restaurants, signaling potential market saturation. Less saturated areas, like St. Marks Road and Commercial Street, could be viable locations. However, factors like rent and population density need further consideration.
+
+![location_countplot](https://github.com/user-attachments/assets/d58dfd3c-4245-460f-85bd-929bec02ef3e)
